@@ -1792,3 +1792,42 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.10.17-14.51.11:066][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/resource/mesh/材质_002_Auto1
 [2025.10.17-14.51.11:066][ 41]LogSavePackage: Moving 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Saved/材质_002_Auto184945CE2400FBE7474831398F3D337F8.tmp' to 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Saved/Autosaves/Game/resource/mesh/材质_002_Auto1.uasset'
 [2025.10.17-14.51.11:066][ 41]LogFileHelpers: Auto-saving content packages took 0.129
+[2025.10.17-14.53.18:584][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1002.272522
+[2025.10.17-14.53.19:586][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-14.53.19:586][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1002.939270, Update Interval: 331.377899
+[2025.10.17-14.59.00:864][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1344.552612
+[2025.10.17-14.59.01:863][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-14.59.01:863][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1345.217407, Update Interval: 312.702423
+[2025.10.17-14.59.55:960][330]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap
+[2025.10.17-14.59.57:503][330]LogSlate: Took 0.000563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.17-15.00.40:788][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.17-15.00.40:792][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-15.00.40:819][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/resource/mesh/cs] ([1] browsable assets)...
+[2025.10.17-15.00.40:819][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/resource/mesh/cs]
+[2025.10.17-15.00.40:819][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/resource/mesh/cs" FILE="C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/cs.uasset" SILENT=true
+[2025.10.17-15.00.40:822][886]LogSavePackage: Moving output files for package: /Game/resource/mesh/cs
+[2025.10.17-15.00.40:822][886]LogSavePackage: Moving 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Saved/cs36B595004126FA4C32C3589618A589E5.tmp' to 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/cs.uasset'
+[2025.10.17-15.00.40:824][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/resource/mesh/材质] ([1] browsable assets)...
+[2025.10.17-15.00.40:824][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/resource/mesh/材质]
+[2025.10.17-15.00.40:824][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/resource/mesh/材质" FILE="C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质.uasset" SILENT=true
+[2025.10.17-15.00.40:826][886]LogSavePackage: Moving output files for package: /Game/resource/mesh/材质
+[2025.10.17-15.00.40:826][886]LogSavePackage: Moving 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Saved/材质804E485E43CEE8C2AA3BD08B76B0A35E.tmp' to 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质.uasset'
+[2025.10.17-15.00.40:827][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/resource/mesh/材质_002] ([1] browsable assets)...
+[2025.10.17-15.00.40:827][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/resource/mesh/材质_002]
+[2025.10.17-15.00.40:827][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/resource/mesh/材质_002" FILE="C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质_002.uasset" SILENT=true
+[2025.10.17-15.00.40:827][886]LogSavePackage: Moving output files for package: /Game/resource/mesh/材质_002
+[2025.10.17-15.00.40:827][886]LogSavePackage: Moving 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Saved/材质_00211FD207B4B4BEDFB911F18B28BB35584.tmp' to 'C:/Users/18379/Desktop/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质_002.uasset'
+[2025.10.17-15.00.40:841][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.276 ms (total: 361.419 ms)
+[2025.10.17-15.00.40:868][886]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.17-15.00.40:868][886]LogContentValidation: Enabled validators:
+[2025.10.17-15.00.40:868][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-15.00.40:868][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-15.00.40:868][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-15.00.40:868][886]LogContentValidation: Display: Validating asset /Game/resource/mesh/cs.cs
+[2025.10.17-15.00.40:868][886]AssetCheck: /Game/resource/mesh/cs 正在验证资产
+[2025.10.17-15.00.40:868][886]LogContentValidation: Display: Validating asset /Game/resource/mesh/材质.材质
+[2025.10.17-15.00.40:868][886]AssetCheck: /Game/resource/mesh/材质 正在验证资产
+[2025.10.17-15.00.40:868][886]LogContentValidation: Display: Validating asset /Game/resource/mesh/材质_002.材质_002
+[2025.10.17-15.00.40:868][886]AssetCheck: /Game/resource/mesh/材质_002 正在验证资产
+[2025.10.17-15.00.49:379][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.10.17-15.00.50:904][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
