@@ -1531,3 +1531,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.10.17-15.08.08:269][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
 [2025.10.17-15.08.08:269][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2025.10.17-15.08.08:269][162]MaterialEditorStats: Shader Count: 4
+[2025.10.17-15.09.06:476][553]LogAssetRegistry: Warning: Package F:/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/cs.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.10.17-15.09.06:476][553]LogAssetRegistry: Warning: Package F:/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/cs.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.10.17-15.09.06:478][553]LogAssetRegistry: Warning: Package F:/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.10.17-15.09.06:478][553]LogAssetRegistry: Warning: Package F:/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.10.17-15.09.06:482][553]LogAssetRegistry: Warning: Package F:/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质_002.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.10.17-15.09.06:482][553]LogAssetRegistry: Warning: Package F:/JGD2025ArtTest/JGD2025ArtTest/Content/resource/mesh/材质_002.uasset is too new. Engine Version: 1009  Package Version: 1012
+[2025.10.17-15.09.29:486][623]LogDerivedDataCache: C:/Users/asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5802 files in 7796 folders with total size 284 MiB.
